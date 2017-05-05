@@ -23,3 +23,17 @@ h1{
 #red{
 	background-color: red;
 }
+/* ************
+	CONTENEDOR 2
+	************* */
+.cont-2 #yellow,
+.cont-2 #blue,
+.cont-2 #red{
+	width: 320px;
+	height: 200px;
+	float: left;
+}
+.cont-2{
+	overflow: auto;
+	border: 2px solid gray;
+}
