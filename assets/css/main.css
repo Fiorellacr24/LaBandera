@@ -37,3 +37,17 @@ h1{
 	overflow: auto;
 	border: 2px solid gray;
 }
+/* ************
+	CONTENEDOR 3
+	************* */
+.cont-3 #yellow,
+.cont-3 #blue,
+.cont-3 #red{
+	width: 320px;
+	height: 200px;
+	float: right;
+}
+.cont-3{
+	overflow: auto;
+	border: 2px solid gray;
+}
