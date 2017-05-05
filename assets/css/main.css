@@ -1,0 +1,17 @@
+.caja-1{
+	width: 250px;
+	height: 180px;
+}
+.sec-1{
+	border: 2px solid gray;
+}
+#yellow{
+	background-color: yellow;
+}
+
+#blue{
+	background-color: blue;
+}
+#red{
+	background-color: red;
+}
