@@ -1,9 +1,17 @@
-.caja-1{
-	width: 250px;
-	height: 180px;
+/* ************
+	CONTENEDOR 1
+	************* */
+h1{
+	clear: both;
 }
-.sec-1{
+.cont-1{
 	border: 2px solid gray;
+}
+.cont-1 #yellow,
+.cont-1 #blue,
+.cont-1 #red{
+	width: 320px;
+	height: 200px;
 }
 #yellow{
 	background-color: yellow;
